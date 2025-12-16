@@ -1,6 +1,6 @@
 # Nuget packages scraper
 
-Your company is too big and old to properly handle nuget certificates on different operating systems?
+Having trouble using `dotnet restore` behind a corporate firewall or proxy that blocks access to nuget.org?
 You could download them manually one by one, or you could use this tool to scrape them all at once!
 
 This tool assumes <https://www.nuget.org> is not protected by a corporate firewall or proxy.
